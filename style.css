@@ -1,0 +1,12 @@
+.bg-light{
+    background-color: black;
+}
+.container {
+	padding-left: 0px;
+	padding-right: 0px;
+	width: 100%;
+}
+
+.button-obj{
+    margin-top: 3rem!important;
+}
